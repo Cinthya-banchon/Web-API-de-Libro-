@@ -44,7 +44,8 @@ y luego con el POST probamos agregando una linea de código, en donde agregamos 
 
 
 Probando con el GET, en la url (http://localhost:8080/libros/6), observando que si se agregó de forma correcta.
-![imagen](https://github.com/cesar-navasug/Web-API-de-Libro-/assets/147842405/2e9ee09d-14f9-4781-8706-d8f3ea4191f5)
+![image](https://github.com/Cinthya-banchon/Web-API-de-Libro-/assets/170268641/76134fe9-e260-459a-af05-b5e63138cb68)
+
 
 y así podemos concluir con mi deber. 
 
