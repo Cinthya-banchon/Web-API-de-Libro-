@@ -6,7 +6,7 @@ Comencé realizando lo que pide cada parámetro del deber, que es agregar cada c
 
 ![image](https://github.com/Cinthya-banchon/Web-API-de-Libro-/assets/170268641/aeb779ab-727b-4dad-8c5a-9f9c0939a71f)
 
-Luego en clase, empezamos a definir el controlador y los endpoints, tener las anotaciones @RestController, @RequestMapping, @GetMapping, @PostMapping, el GET y el POST y en clase Libro, ir agregando los campos para después en una clase repository, agregarle los datos de los libros, que en mi caso, utilicé 5.
+Luego en clase, empezamos a definir el controlador y los endpoints, tener las anotaciones @RestController, @RequestMapping, @GetMapping, @PostMapping, el GET y el POST y en clase Libro, ir agregando los campos para después en una clase repository, agregarle los datos de los libros, en este caso yo utilicé 5.
 
 ![image](https://github.com/Cinthya-banchon/Web-API-de-Libro-/assets/170268641/9bf2a0fd-44bc-418a-9f8f-12f42c2190a7)
 
