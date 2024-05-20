@@ -4,7 +4,7 @@
 
 Comencé realizando lo que pide cada parámetro del deber, que es agregar cada clase (com.tuuniversidad.models, com.tuuniversidad.repository, com.tuuniversidad.service, com.tuuniversidad.controllers), en nuestro proyecto, y de forma ordenada en un Folder.
 
-![imagen](https://github.com/cesar-navasug/Web-API-de-Libro-/assets/147842405/de87df3a-4fe3-4867-b0e3-a8ac8b516410)
+![image](https://github.com/Cinthya-banchon/Web-API-de-Libro-/assets/170268641/aeb779ab-727b-4dad-8c5a-9f9c0939a71f)
 
 Luego en clase, empezamos a definir el controlador y los endpoints, tener las anotaciones @RestController, @RequestMapping, @GetMapping, @PostMapping, el GET y el POST y en clase Libro, ir agregando los campos para después en una clase repository, agregarle los datos de los libros, que en mi caso, utilicé 5.
 
