@@ -30,7 +30,7 @@ Ya abierto el servidor, podemos probar en el navegador de preferencia o en la ap
 
 # Navegador web
 
-![image](https://github.com/Cinthya-banchon/Web-API-de-Libro-/assets/170268641/5e5608d8-0a72-44b2-914e-810d393f3787)
+![image](https://github.com/Cinthya-banchon/Web-API-de-Libro-/assets/170268641/5d159d9a-cd4d-4a54-aa66-bbc86081e051)
 
 
 Luego probamos el GET:
