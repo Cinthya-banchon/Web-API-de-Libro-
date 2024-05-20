@@ -18,7 +18,8 @@ Luego en clase, empezamos a definir el controlador y los endpoints, tener las an
 
 Luego encendemos el servidor, dando click al botón Run.
 
-![imagen](https://github.com/cesar-navasug/Web-API-de-Libro-/assets/147842405/49774689-37a3-4b90-849b-0fe77e981ff0)
+![image](https://github.com/Cinthya-banchon/Web-API-de-Libro-/assets/170268641/e794ae97-ce15-4183-8670-f1e118e8f755)
+
 
 Ya abierto el servidor, podemos probar en el navegador de preferencia o en la aplicación "PostMan" si funciona de forma correcta el código.
 
