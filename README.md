@@ -25,7 +25,8 @@ Ya abierto el servidor, podemos probar en el navegador de preferencia o en la ap
 
 # PostMan
 
-![imagen](https://github.com/cesar-navasug/Web-API-de-Libro-/assets/147842405/9fa804b7-0c46-49c2-b381-747d8401f7ef)
+![image](https://github.com/Cinthya-banchon/Web-API-de-Libro-/assets/170268641/f3650a59-207f-4a0e-880d-1a196f66524d)
+
 
 # Navegador web
 
