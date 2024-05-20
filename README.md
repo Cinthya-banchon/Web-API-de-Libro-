@@ -13,7 +13,8 @@ Luego en clase, empezamos a definir el controlador y los endpoints, tener las an
 ![image](https://github.com/Cinthya-banchon/Web-API-de-Libro-/assets/170268641/0146dbf6-7cdd-4640-bac8-f334b6a00538)
 
 
-![imagen](https://github.com/cesar-navasug/Web-API-de-Libro-/assets/147842405/c56a56ed-d6aa-4679-9575-0da91b48a95e)
+![image](https://github.com/Cinthya-banchon/Web-API-de-Libro-/assets/170268641/d2e4fece-fb02-4fce-86d5-51bd6b45f497)
+
 
 Luego encendemos el servidor, dando click al botón Run.
 
