@@ -40,7 +40,8 @@ Luego probamos el GET:
 
 y luego con el POST probamos agregando una linea de código, en donde agregamos con la ID:6 un nuevo libro y viendo reflejado el mensaje de que se logró crear el nuevo libro.
 
-![imagen](https://github.com/cesar-navasug/Web-API-de-Libro-/assets/147842405/d8ef87a8-b2c0-4223-b38d-b5325d328208)
+![image](https://github.com/Cinthya-banchon/Web-API-de-Libro-/assets/170268641/2a908e20-1c0b-48bd-8b5b-1aa5b95f0217)
+
 
 Probando con el GET, en la url (http://localhost:8080/libros/6), observando que si se agregó de forma correcta.
 ![imagen](https://github.com/cesar-navasug/Web-API-de-Libro-/assets/147842405/2e9ee09d-14f9-4781-8706-d8f3ea4191f5)
