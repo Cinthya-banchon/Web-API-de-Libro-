@@ -10,7 +10,8 @@ Luego en clase, empezamos a definir el controlador y los endpoints, tener las an
 
 ![image](https://github.com/Cinthya-banchon/Web-API-de-Libro-/assets/170268641/9bf2a0fd-44bc-418a-9f8f-12f42c2190a7)
 
-![imagen](https://github.com/cesar-navasug/Web-API-de-Libro-/assets/147842405/300f71c2-63b1-48b5-a39c-345a96823a74)
+![image](https://github.com/Cinthya-banchon/Web-API-de-Libro-/assets/170268641/0146dbf6-7cdd-4640-bac8-f334b6a00538)
+
 
 ![imagen](https://github.com/cesar-navasug/Web-API-de-Libro-/assets/147842405/c56a56ed-d6aa-4679-9575-0da91b48a95e)
 
