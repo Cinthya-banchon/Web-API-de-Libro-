@@ -35,7 +35,8 @@ Ya abierto el servidor, podemos probar en el navegador de preferencia o en la ap
 
 Luego probamos el GET:
 
-![imagen](https://github.com/cesar-navasug/Web-API-de-Libro-/assets/147842405/ffe192bb-f083-4c7b-9190-6fcd9387e553)
+![image](https://github.com/Cinthya-banchon/Web-API-de-Libro-/assets/170268641/8f00c729-dfd3-4202-b33f-880c82fe78d5)
+
 
 y luego con el POST probamos agregando una linea de código, en donde agregamos con la ID:6 un nuevo libro y viendo reflejado el mensaje de que se logró crear el nuevo libro.
 
